@@ -1,4 +1,10 @@
 #Written by Preston Zen and Jacob Mosses
+import requests #so we can pull inspirational quotes
+
+#On load pull inspirational quotes 
+#quote_raw = requests.get ("https:// quote web site . com " )#
+#quote = quote_raw - #raw part
+#print(quote)
 
 Work efficiency calculator
 Week_Hours = 168
